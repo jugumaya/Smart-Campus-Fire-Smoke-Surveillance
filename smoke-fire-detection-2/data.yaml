@@ -1,0 +1,14 @@
+names:
+- fire
+- smoke
+nc: 2
+path: E:\python-intern\smoke-fire-detection-2
+roboflow:
+  license: Private
+  project: smoke-fire-detection-uegm3
+  url: https://app.roboflow.com/smart-campus-fire-smoke-detection/smoke-fire-detection-uegm3/2
+  version: 2
+  workspace: smart-campus-fire-smoke-detection
+test: train\images
+train: train\images
+val: train\images
